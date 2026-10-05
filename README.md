@@ -55,12 +55,13 @@ My workflow: **understand the data → build a reliable validation setup → exp
 
 **Shipd by Datacurve** · AI/ML contributor &amp; benchmark author · March 2026–present
 
-- **End-to-end authoring:** datasets, held-out splits, graders, and submission validation. Authored **13 approved ML benchmark challenges by August 2026**.
+- **End-to-end authoring:** datasets, held-out splits, graders, and submission validation. Authored **35+ approved ML benchmark challenges**, with new challenges added regularly.
 - **Evaluation design:** leakage controls, compositional splits, metrics that account for rare classes, and baseline comparisons that test for shortcuts.
 - **Reproducible pipelines:** preprocessing, model logic, and evaluation built against explicit correctness and edge-case rubrics.
 
 ## Milestones
 
+- **Datacurve contributor leaderboard:** **#15 all-time** · **23,900 points** · **45 Gold, 38 Silver, and 28 Bronze solution medals**. Snapshot: **5 October 2026**.
 - **Kaggle Competition Bronze Medalist** · [March Machine Learning Mania 2026](https://www.kaggle.com/competitions/march-machine-learning-mania-2026/leaderboard): **232 / 3,462 teams (top 6.7%)**. Also a **Notebook Expert**, sharing reproducible ML experiments and analysis on [Kaggle](https://www.kaggle.com/skarin).
 - **Team hackathon wins:** **2 Gold + 1 Silver** across intra-college hackathons with [ParkIn](https://github.com/ska2704/ParkIn), a four-person smart parking project.
 - **Google Cloud Machine Learning Specialization:** completed a five-course program.
