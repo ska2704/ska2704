@@ -3,16 +3,18 @@
 </p>
 
 <p align="center">
-  <b>AI/ML contributor at Shipd · Kaggle Notebook Expert · CSE (AI &amp; ML) undergrad</b>
+  <b>AI/ML contributor &amp; benchmark author · Kaggle Notebook Expert · CSE (AI &amp; ML)</b>
 </p>
 
 <p align="center">
   <a href="https://www.kaggle.com/skarin"><img src="assets/kaggle.svg" alt="Find my notebooks on Kaggle: skarin" height="38" /></a>
   &nbsp;
   <a href="https://github.com/ska2704?tab=repositories"><img src="assets/projects.svg" alt="Explore my GitHub projects" height="38" /></a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/sk-arin/"><img src="assets/linkedin.svg" alt="Connect with SK Arin on LinkedIn" height="38" /></a>
 </p>
 
-I build ML systems, compete in machine learning challenges, and design new problems for other people to solve. At **Shipd by Datacurve**, I work on both sides of the leaderboard: authoring challenges and developing solutions.
+I build ML systems, compete in machine learning challenges, and design new problems for other people to solve. At **Shipd by Datacurve**, I work on both sides of the leaderboard: authoring benchmarks and developing solutions.
 
 My workflow: **understand the data → build a reliable validation setup → experiment → ship.** I'm especially interested in NLP, computer vision, structured prediction, and the engineering that makes models useful.
 
@@ -23,7 +25,7 @@ My workflow: **understand the data → build a reliable validation setup → exp
     <td width="50%" valign="top">
       <sub>01 / RACE SIMULATION</sub>
       <h3><a href="https://github.com/ska2704/PitWall">PitWall ↗</a></h3>
-      <p>What happens when you put machine learning on the pit wall? A Formula 1 simulator with six ML models, historical telemetry, and Monte Carlo race scenarios.</p>
+      <p>A Formula 1 simulator combining six ML models, historical telemetry, and Monte Carlo race scenarios, streamed lap by lap to a React dashboard over WebSockets.</p>
       <p><code>scikit-learn</code> <code>FastF1</code> <code>FastAPI</code> <code>React</code></p>
     </td>
     <td width="50%" valign="top">
@@ -37,17 +39,31 @@ My workflow: **understand the data → build a reliable validation setup → exp
     <td width="50%" valign="top">
       <sub>03 / MOLECULAR ML</sub>
       <h3><a href="https://github.com/ska2704/hybridtox">HybridTox ↗</a></h3>
-      <p>Exploring molecular toxicity prediction with graph attention networks, a variational quantum circuit, and a classical baseline across 12 Tox21 assays.</p>
+      <p>Molecular toxicity prediction pairing a graph attention network with an 8-qubit quantum circuit. Evaluated across 12 Tox21 assays using scaffold splits, with a classical baseline and atom-level explanations.</p>
       <p><code>PyTorch</code> <code>PyG</code> <code>PennyLane</code> <code>RDKit</code></p>
     </td>
     <td width="50%" valign="top">
       <sub>04 / KNOWLEDGE GRAPHS</sub>
       <h3><a href="https://github.com/ska2704/axiom">Axiom ↗</a></h3>
-      <p>Turning academic PDFs into knowledge graphs, then using graph relationships to generate assessment questions and select their distractors.</p>
+      <p>Turning academic PDFs into knowledge graphs and assessment questions, with graph-selected distractors, deterministic Cypher checks, and a dashboard for evaluating generated questions.</p>
       <p><code>Neo4j</code> <code>Hugging Face</code> <code>FastAPI</code> <code>Streamlit</code></p>
     </td>
   </tr>
 </table>
+
+## Benchmarking &amp; evaluation
+
+**Shipd by Datacurve** · AI/ML contributor &amp; benchmark author · March 2026–present
+
+- **End-to-end authoring:** datasets, held-out splits, graders, and submission validation. Authored **13 approved ML benchmark challenges by August 2026**.
+- **Evaluation design:** leakage controls, compositional splits, metrics that account for rare classes, and baseline comparisons that test for shortcuts.
+- **Reproducible pipelines:** preprocessing, model logic, and evaluation built against explicit correctness and edge-case rubrics.
+
+## Milestones
+
+- **Kaggle Competition Bronze Medalist** · [March Machine Learning Mania 2026](https://www.kaggle.com/competitions/march-machine-learning-mania-2026/leaderboard): **232 / 3,462 teams (top 6.7%)**. Also a **Notebook Expert**, sharing reproducible ML experiments and analysis on [Kaggle](https://www.kaggle.com/skarin).
+- **Team hackathon wins:** **2 Gold + 1 Silver** across intra-college hackathons with [ParkIn](https://github.com/ska2704/ParkIn), a four-person smart parking project.
+- **Google Cloud Machine Learning Specialization:** completed a five-course program.
 
 ## In the lab
 
@@ -57,9 +73,13 @@ My workflow: **understand the data → build a reliable validation setup → exp
 
 ## Tools I reach for
 
-**Models &amp; data** &nbsp; `Python` `PyTorch` `Transformers` `timm` `scikit-learn` `LightGBM`
+**Models &amp; experiments** &nbsp; `PyTorch` `PyTorch Geometric` `timm` `scikit-learn` `LightGBM` `Optuna`
 
-**Systems &amp; interfaces** &nbsp; `FastAPI` `React` `TypeScript` `Docker` `Kubernetes`
+**LLMs &amp; graphs** &nbsp; `Transformers` `GraphRAG` `LangChain` `LlamaIndex` `Neo4j`
+
+**Systems &amp; data** &nbsp; `Python` `SQL` `FastAPI` `React` `Streamlit` `Docker` `Kubernetes`
+
+**Education:** B.Tech in Computer Science &amp; Engineering (AI &amp; ML), Bengal Institute of Technology, Kolkata (MAKAUT). Expected graduation: **May 2027**.
 
 <details>
   <summary><b>A little beyond the code</b></summary>
