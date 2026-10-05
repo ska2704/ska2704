@@ -14,7 +14,7 @@
   <a href="https://www.linkedin.com/in/sk-arin/"><img src="assets/linkedin.svg" alt="Connect with SK Arin on LinkedIn" height="38" /></a>
 </p>
 
-I build ML systems, compete in machine learning challenges, and design new problems for other people to solve. At **Shipd by Datacurve**, I work on both sides of the leaderboard: authoring benchmarks and developing solutions.
+I build ML systems, compete in machine learning challenges, and design new problems for other people to solve. Through **Project Eris at Shipd by Datacurve**, I work on both sides of the leaderboard: authoring benchmarks and developing solutions.
 
 My workflow: **understand the data → build a reliable validation setup → experiment → ship.** I'm especially interested in NLP, computer vision, structured prediction, and the engineering that makes models useful.
 
@@ -53,7 +53,7 @@ My workflow: **understand the data → build a reliable validation setup → exp
 
 ## Benchmarking &amp; evaluation
 
-**Shipd by Datacurve** · AI/ML contributor &amp; benchmark author · March 2026–present
+**Shipd by Datacurve · Project Eris** · AI/ML contributor &amp; benchmark author · March 2026–present
 
 - **End-to-end authoring:** datasets, held-out splits, graders, and submission validation. Authored **35+ approved ML benchmark challenges**, with new challenges added regularly.
 - **Evaluation design:** leakage controls, compositional splits, metrics that account for rare classes, and baseline comparisons that test for shortcuts.
@@ -61,7 +61,7 @@ My workflow: **understand the data → build a reliable validation setup → exp
 
 ## Milestones
 
-- **Datacurve contributor leaderboard:** **#15 all-time** · **23,900 points** · **45 Gold, 38 Silver, and 28 Bronze solution medals**. Snapshot: **5 October 2026**.
+- **Shipd · Project Eris:** **Top 15 and climbing** on the all-time contributor leaderboard.
 - **Kaggle Competition Bronze Medalist** · [March Machine Learning Mania 2026](https://www.kaggle.com/competitions/march-machine-learning-mania-2026/leaderboard): **232 / 3,462 teams (top 6.7%)**. Also a **Notebook Expert**, sharing reproducible ML experiments and analysis on [Kaggle](https://www.kaggle.com/skarin).
 - **Team hackathon wins:** **2 Gold + 1 Silver** across intra-college hackathons with [ParkIn](https://github.com/ska2704/ParkIn), a four-person smart parking project.
 - **Google Cloud Machine Learning Specialization:** completed a five-course program.
