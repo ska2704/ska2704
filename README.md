@@ -63,8 +63,6 @@ My workflow: **understand the data → build a reliable validation setup → exp
 
 - **Shipd · Project Eris:** **Top 15 and climbing** on the all-time contributor leaderboard.
 - **Kaggle Competition Bronze Medalist** · [March Machine Learning Mania 2026](https://www.kaggle.com/competitions/march-machine-learning-mania-2026/leaderboard): **232 / 3,462 teams (top 6.7%)**. Also a **Notebook Expert**, sharing reproducible ML experiments and analysis on [Kaggle](https://www.kaggle.com/skarin).
-- **Team hackathon wins:** **2 Gold + 1 Silver** across intra-college hackathons with [ParkIn](https://github.com/ska2704/ParkIn), a four-person smart parking project.
-- **Google Cloud Machine Learning Specialization:** completed a five-course program.
 
 ## In the lab
 
