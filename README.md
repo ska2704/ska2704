@@ -1,25 +1,18 @@
-<picture>
-  <source media="(max-width: 700px)" srcset="https://raw.githubusercontent.com/ska2704/ska2704/7d4e4d837eb67405088f39196e9ff37e6768b462/assets/profile-mobile.svg" />
-  <img src="https://raw.githubusercontent.com/ska2704/ska2704/7d4e4d837eb67405088f39196e9ff37e6768b462/assets/profile-desktop.svg" alt="SK Arin's full profile. A white vector game character parkours through the paragraphs to A little beyond the code, catches its breath, and stands still." width="100%" />
-</picture>
-
 <p align="center">
-  <a href="https://www.kaggle.com/skarin"><img src="assets/kaggle.svg" alt="Kaggle: skarin" height="38" /></a>
-  &nbsp;
-  <a href="https://github.com/ska2704?tab=repositories"><img src="assets/projects.svg" alt="Explore projects" height="38" /></a>
-  &nbsp;
-  <a href="https://www.linkedin.com/in/sk-arin/"><img src="assets/linkedin.svg" alt="LinkedIn: SK Arin" height="38" /></a>
+  <img src="https://raw.githubusercontent.com/ska2704/ska2704/493d737236bbd5c2d27b8b6d14824f6ea70a38fc/assets/hero.svg" alt="SK Arin. Machine learning. Real-world systems. Kolkata, India." width="100%" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/ska2704/PitWall">PitWall</a> ·
-  <a href="https://github.com/ska2704/podmind">PodMind</a> ·
-  <a href="https://github.com/ska2704/hybridtox">HybridTox</a> ·
-  <a href="https://github.com/ska2704/axiom">Axiom</a>
+  <b>AI/ML contributor &amp; benchmark author · Kaggle Notebook Expert · CSE (AI &amp; ML)</b>
 </p>
 
-<details>
-<summary><b>Read the profile text and project details</b></summary>
+<p align="center">
+  <a href="https://www.kaggle.com/skarin"><img src="assets/kaggle.svg" alt="Find my notebooks on Kaggle: skarin" height="38" /></a>
+  &nbsp;
+  <a href="https://github.com/ska2704?tab=repositories"><img src="assets/projects.svg" alt="Explore my GitHub projects" height="38" /></a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/sk-arin/"><img src="assets/linkedin.svg" alt="Connect with SK Arin on LinkedIn" height="38" /></a>
+</p>
 
 I build ML systems, compete in machine learning challenges, and design new problems for other people to solve. Through **Project Eris at Shipd by Datacurve**, I work on both sides of the leaderboard: authoring benchmarks and developing solutions.
 
@@ -97,5 +90,3 @@ My workflow: **understand the data → build a reliable validation setup → exp
 <p align="center">
   <sub>Curious problems. Careful experiments. Useful software.</sub>
 </p>
-
-</details>
