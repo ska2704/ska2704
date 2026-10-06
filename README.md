@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/hero.svg?v=e446ae6" alt="SK Arin. Machine learning. Real-world systems. Kolkata, India." width="100%" />
+  <img src="https://raw.githubusercontent.com/ska2704/ska2704/e446ae67533c75a5925912dc6be69ae2e8581c99/assets/hero.svg" alt="SK Arin. Machine learning. Real-world systems. Kolkata, India." width="100%" />
 </p>
 
 <p align="center">
